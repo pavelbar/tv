@@ -1,0 +1,228 @@
+----------------------------------------
+New iteration
+h = 721
+Number of packs = 54
+
+Slow car is 230
+Cars in pack: 230 34 754 
+Size pack = 3
+
+Slow car is 111
+Cars in pack: 111 15 135 145 98 293 265 
+Size pack = 7
+
+Slow car is 146
+Cars in pack: 146 234 88 113 288 
+Size pack = 5
+
+Slow car is 46
+Cars in pack: 46 73 235 71 776 
+Size pack = 5
+
+Slow car is 18
+Cars in pack: 18 360 293 38 29 517 
+Size pack = 6
+
+Slow car is 528
+Cars in pack: 528 568 1022 
+Size pack = 3
+
+Slow car is 1284
+Cars in pack: 1284 240 2255 
+Size pack = 3
+
+Slow car is 313
+Cars in pack: 313 48 432 247 
+Size pack = 4
+
+Slow car is 651
+Cars in pack: 651 279 162 174 333 
+Size pack = 5
+
+Slow car is 339
+Cars in pack: 339 56 354 3 133 4 1694 
+Size pack = 7
+
+Slow car is 135
+Cars in pack: 135 940 
+Size pack = 2
+
+Slow car is 11
+Cars in pack: 11 183 14 132 246 8 21 316 
+Size pack = 8
+
+Slow car is 5
+Cars in pack: 5 181 230 281 760 
+Size pack = 5
+
+Slow car is 1
+Cars in pack: 1 317 77 220 49 185 
+Size pack = 6
+
+Slow car is 533
+Cars in pack: 533 295 477 
+Size pack = 3
+
+Slow car is 299
+Cars in pack: 299 130 130 33 7 161 12 95 91 65 
+Size pack = 10
+
+Slow car is 158
+Cars in pack: 158 70 55 2067 
+Size pack = 4
+
+Slow car is 962
+Cars in pack: 962 414 231 428 
+Size pack = 4
+
+Slow car is 2
+Cars in pack: 2 536 318 
+Size pack = 3
+
+Slow car is 34
+Cars in pack: 34 524 139 19 17 11 103 
+Size pack = 7
+
+Slow car is 22
+Cars in pack: 22 397 8 16 1131 
+Size pack = 5
+
+Slow car is 4168
+Cars in pack: 4168 4494 
+Size pack = 2
+
+Slow car is 455
+Cars in pack: 455 628 806 
+Size pack = 3
+
+Slow car is 260
+Cars in pack: 260 86 642 
+Size pack = 3
+
+Slow car is 695
+Cars in pack: 695 445 1317 
+Size pack = 3
+
+Slow car is 856
+Cars in pack: 856 816 
+Size pack = 2
+
+Slow car is 839
+Cars in pack: 839 22 578 717 
+Size pack = 4
+
+Slow car is 1577
+Cars in pack: 1577 1747 
+Size pack = 2
+
+Slow car is 31
+Cars in pack: 31 620 167 
+Size pack = 3
+
+Slow car is 525
+Cars in pack: 525 483 447 
+Size pack = 3
+
+Slow car is 664
+Cars in pack: 664 264 220 36 304 
+Size pack = 5
+
+Slow car is 537
+Cars in pack: 537 69 867 
+Size pack = 3
+
+Slow car is 572
+Cars in pack: 572 198 396 1085 
+Size pack = 4
+
+Slow car is 545
+Cars in pack: 545 404 482 
+Size pack = 3
+
+Slow car is 57
+Cars in pack: 57 254 1356 
+Size pack = 3
+
+Slow car is 39
+Cars in pack: 39 1392 
+Size pack = 2
+
+Slow car is 652
+Cars in pack: 652 189 21 261 428 
+Size pack = 5
+
+Slow car is 355
+Cars in pack: 355 116 504 261 
+Size pack = 4
+
+Slow car is 192
+Cars in pack: 192 2 4 35 41 104 3 509 929 
+Size pack = 9
+
+Slow car is 2
+Cars in pack: 2 417 1323 
+Size pack = 3
+
+Slow car is 506
+Cars in pack: 506 279 100 610 
+Size pack = 4
+
+Slow car is 194
+Cars in pack: 194 4 635 83 
+Size pack = 4
+
+Slow car is 676
+Cars in pack: 676 60 413 253 
+Size pack = 4
+
+Slow car is 166
+Cars in pack: 166 71 15 13 449 110 160 
+Size pack = 7
+
+Slow car is 10
+Cars in pack: 10 68 195 57 6 401 
+Size pack = 6
+
+Slow car is 276
+Cars in pack: 276 9 784 
+Size pack = 3
+
+Slow car is 224
+Cars in pack: 224 158 241 884 
+Size pack = 4
+
+Slow car is 222
+Cars in pack: 222 72 380 235 7 236 
+Size pack = 6
+
+Slow car is 17
+Cars in pack: 17 27 394 185 353 
+Size pack = 5
+
+Slow car is 1218
+Cars in pack: 1218 131 129 277 10 39 701 
+Size pack = 7
+
+Slow car is 198
+Cars in pack: 198 508 442 
+Size pack = 3
+
+Slow car is 589
+Cars in pack: 589 121 350 93 60 307 
+Size pack = 6
+
+Slow car is 332
+Cars in pack: 332 90 56 385 134 97 
+Size pack = 6
+
+Slow car is 46
+Cars in pack: 46 188 78 
+Size pack = 3
+
+Slow car's stream is recurrent
+WallisMoore's result: 1.32599
+InversionTest's result: 0.668661
+
+Number of packs is recurrent
+WallisMoore's result: 0.547176
+InversionTest's result: 1.95808

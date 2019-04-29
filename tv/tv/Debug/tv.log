@@ -1,0 +1,22 @@
+﻿  tv.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\numeric(26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\numeric(36): note: выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)"
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  c:\users\паша\desktop\tv\tv\tv\synchronous_split.h(19): note: выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)"
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+  c:\users\паша\desktop\tv\tv\tv\tv.cpp(101): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> SynchronousMethod<double>(const std::vector<_Ty,std::allocator<_Ty>> &,const T &)"
+          with
+          [
+              _Ty=double,
+              T=double
+          ]
+  tv.vcxproj -> C:\Users\паша\Desktop\tv\tv\Debug\tv.exe
